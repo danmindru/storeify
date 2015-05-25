@@ -1,0 +1,19 @@
+{
+  "name": "storeify",
+  "version": "0.0.1",
+  "description": "Browserify wrapper for simple local storage w/ cookie fallback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmindru/storeify.git"
+  },
+  "author": "Dan Mindru <mindrudan@gmail.com> (http://mindrudan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmindru/storeify/issues"
+  },
+  "homepage": "https://github.com/danmindru/storeify#readme"
+}
